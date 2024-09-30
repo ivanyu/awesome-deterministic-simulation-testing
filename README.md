@@ -49,6 +49,12 @@ An overview of `BUGGIFY` macro from FoundationDB.
 
 > At Resonate, we consider deterministic simulation testing (DST) to be a cornerstone of our mission to build correct and reliable distributed systems. While an increasing array of projects, including Foundation DB, TigerBeetle DB, and Resonate itself, have embraced DST, along with companies like Antithesis providing platforms dedicated to this approach, comprehensive information remains limited.
 
+### [Hiisi](https://github.com/penberg/hiisi) by Pekka Enberg
+
+> Hiisi is a proof of concept libSQL written in Rust following TigerBeetle-style with deterministic simulation testing.
+
+The [Twitter thread](https://x.com/penberg/status/1821888879718281303).
+
 ## Software
 
 ### [Antithesis](https://antithesis.com/)
