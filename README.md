@@ -69,3 +69,6 @@ A deterministic simulator for distributed systems in Rust.
 
 ### [Turmoil](https://github.com/tokio-rs/turmoil)
 A framework for testing distributed systems, which provides deterministic execution by running multiple concurrent hosts within a single thread.
+
+### [Unthread](https://github.com/mpdn/unthread)
+An implementation of POSIX threads API designed for fuzzing and debugging of concurrent programs written in C/C++ languages.
