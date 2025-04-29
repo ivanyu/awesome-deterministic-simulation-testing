@@ -55,6 +55,10 @@ An overview of `BUGGIFY` macro from FoundationDB.
 
 The [Twitter thread](https://x.com/penberg/status/1821888879718281303).
 
+### 🎞️ [Deterministic simulation testing](https://www.youtube.com/live/29Vz5wkoUR8) talk by Pekka Enberg
+
+> In this session, Pekka Enberg will focus on the topic of deterministic simulation testing.
+
 ## Software
 
 ### [Antithesis](https://antithesis.com/)
