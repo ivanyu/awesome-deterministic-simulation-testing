@@ -36,7 +36,7 @@ An overview of `BUGGIFY` macro from FoundationDB.
 
 ### Case studies of Antithesis
 - [Deterministic Simulation Testing for Our Entire SaaS](https://www.warpstream.com/blog/deterministic-simulation-testing-for-our-entire-saas).
-- [Chaos Testing Stardog Cluster for Fun and Profit](https://www.stardog.com/labs/blog/chaos-testing-stardog-cluster-for-fun-and-profit/).
+- [Chaos Testing Stardog Cluster for Fun and Profit](https://labs.stardog.ai/chaos-testing-fun-and-profit).
 - [Accelerating developers at MongoDB](https://antithesis.com/case_studies/mongodb_productivity/).
 - [Testing the Ethereum merge](https://antithesis.com/case_studies/ethereum_merge/).
 
