@@ -3,7 +3,7 @@ A curated list of awesome deterministic simulation testing resources.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Case studies and blogs
+## Case studies, blogs, talks
 
 ### 🎞️ ["Testing Distributed Systems w/ Deterministic Simulation" by Will Wilson](https://www.youtube.com/watch?v=4fFDFbi3toc)
 An overview of the deterministic simulation testing in FoundationDB, influential for many following cases.
@@ -19,6 +19,10 @@ An overview of `BUGGIFY` macro from FoundationDB.
 ### [sled simulation guide (jepsen-proof engineering)](https://sled.rs/simulation.html)
 
 > This guide contains basic information about deterministic testing of distributed, message-based, event-driven, or actor systems.
+
+### 🎞️ [Random seeds and state machines: An approach to deterministic simulation testing in Rust](https://fosdem.org/2026/schedule/event/GNTZDT-rust-deterministic-simulation-testing/)
+
+> This talk will cover how we implemented DST of our distributed storage system at Polar Signals by modelling our core components as state machines and why this was the right choice for us over other approaches that use deterministic async runtimes (e.g. https://github.com/madsim-rs/madsim).
 
 ### A blog series on Deterministic simulation from RisingWave
 
