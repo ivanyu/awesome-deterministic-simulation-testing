@@ -80,3 +80,6 @@ A framework for testing distributed systems, which provides deterministic execut
 
 ### [Unthread](https://github.com/mpdn/unthread)
 An implementation of POSIX threads API designed for fuzzing and debugging of concurrent programs written in C/C++ languages.
+
+### [Tickloom](https://github.com/unmeshjoshi/tickloom)
+Tickloom is a lightweight Java framework for building deterministic, testable distributed systems.
