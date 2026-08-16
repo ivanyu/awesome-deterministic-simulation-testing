@@ -82,4 +82,8 @@ A framework for testing distributed systems, which provides deterministic execut
 An implementation of POSIX threads API designed for fuzzing and debugging of concurrent programs written in C/C++ languages.
 
 ### [Tickloom](https://github.com/unmeshjoshi/tickloom)
+
+## Related application QA
+
+- [Agent QA](https://github.com/vostride/agent-qa) - A source-available QA agent for natural-language web and mobile tests. It is an adjacent application-testing tool, not a deterministic simulation testing framework.
 Tickloom is a lightweight Java framework for building deterministic, testable distributed systems.
