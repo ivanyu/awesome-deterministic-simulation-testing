@@ -75,6 +75,10 @@ A deterministic simulator for distributed systems in Rust.
 
 [MadRaft](https://github.com/madsim-rs/madraft) - the labs of Raft consensus algorithm based on MadSim.
 
+### [Promtact](https://github.com/hunterinvariants/Promtact)
+
+A Go framework for deterministic simulation testing of distributed protocols with virtual time, seeded fault injection, per-step invariants, and replayable traces.
+
 ### [Turmoil](https://github.com/tokio-rs/turmoil)
 A framework for testing distributed systems, which provides deterministic execution by running multiple concurrent hosts within a single thread.
 
